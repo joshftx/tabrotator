@@ -21,12 +21,12 @@
         "tabReloadIntervalSeconds": 9000000
       },
       {
-        "url": "https://www.youtube.com/watch_popup?v=t0GrpAgdBFI",
+        "url": "https://www.youtube.com/watch_popup?v=t0GrpAgdBFI?autoplay=1",
         "duration": 90,
         "tabReloadIntervalSeconds": 9000000
       } ,
       {
-        "url": "https://www.youtube.com/watch_popup?v=S26YOMAD290",
+        "url": "https://www.youtube.com/watch_popup?v=S26YOMAD290?autoplay=1",
         "duration": 90,
         "tabReloadIntervalSeconds": 9000000
       } 
