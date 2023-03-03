@@ -24,7 +24,14 @@
         "url": "https://www.youtube.com/watch_popup?v=t0GrpAgdBFI",
         "duration": 90,
         "tabReloadIntervalSeconds": 9000000
+      } ,
+      {
+        "url": "https://www.youtube.com/watch_popup?v=S26YOMAD290",
+        "duration": 90,
+        "tabReloadIntervalSeconds": 9000000
       } 
       
     ]
   }
+
+  
