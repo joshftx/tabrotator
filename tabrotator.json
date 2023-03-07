@@ -19,17 +19,7 @@
         "url": "https://flightaware.com/live/flex_bigmap.rvt?search=-airline%20ASA&time=1676326860&key=50de2f741489364e4f0af0b53ff6d4827cde362f&title=Airborne%20Alaska%20Airlines%20&quot;Alaska&quot;%20(ASA)%20Aircraft",
         "duration": 90,
         "tabReloadIntervalSeconds": 9000000
-      },
-      {
-        "url": "https://www.youtube.com/watch_popup?v=t0GrpAgdBFI?autoplay=1",
-        "duration": 90,
-        "tabReloadIntervalSeconds": 9000000
-      } ,
-      {
-        "url": "https://www.youtube.com/watch_popup?v=S26YOMAD290?autoplay=1",
-        "duration": 90,
-        "tabReloadIntervalSeconds": 9000000
-      } 
+      }
       
     ]
   }
