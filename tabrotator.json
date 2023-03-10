@@ -29,6 +29,11 @@
         "url": "https://www.youtube.com/watch?v=1HuXun1vURc",
         "duration": 90,
         "tabReloadIntervalSeconds": 9000000
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=t0GrpAgdBFI",
+        "duration": 90,
+        "tabReloadIntervalSeconds": 9000000
       }
       
     ]
